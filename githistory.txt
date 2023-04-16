@@ -1,1 +1,2 @@
-let's talk about git and linux
+let's talk about git and linux.
+git is a distributed version control system, which has been developed by linus torvalds in 2005.
