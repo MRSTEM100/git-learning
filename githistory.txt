@@ -1,2 +1,3 @@
 let's talk about git and linux.
-git is distributed version control system which has been developed by linus torvsalad in 2005.
+
+git is a distributed version control system, which has been developed by linus torvalds in 2005.
